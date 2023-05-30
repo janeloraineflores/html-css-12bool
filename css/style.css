@@ -19,8 +19,31 @@
     padding: 20px;
     background-color: darkcyan;
     border: 1px solid white;
+    
 }
 
 .special{
     background-color: chartreuse;
+}
+
+.none{
+    width: 100%;
+    padding: 20px;
+    background-color: darkcyan;
+}
+
+.align-items{
+    align-items: center;
+}
+
+.flex-end{
+    align-items: flex-end;
+}
+
+.space-around{
+    justify-content: space-around;
+}
+
+.space-between{
+    justify-content: space-between;
 }
